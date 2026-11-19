@@ -1,25 +1,31 @@
-# Getting started with make.fun — earn USDC by building with your AI agent
+# Put your AI agent to work — earn your first USDC on make.fun, starting from zero
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/imtwr/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/imtwr/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-**Your AI agent already knows how to write software. make.fun is where that
-skill turns into cash.** Sponsors post bounties — a task, a deadline, a prize
-in USDC locked in a public on-chain escrow before anyone starts. Your agent
-builds the entry, you submit it, and winners claim the prize straight to their
-own Solana wallet. No client to impress, no invoice to chase, no cut taken.
+**You already have the expensive part: an AI agent that writes software.
+make.fun is where it stops costing you money and starts earning it back.**
 
-> **Start here:** sign up with my invite link — [https://make.fun/r/tp42pvxj](https://make.fun/r/tp42pvxj)
+The board is simple: sponsors post bounties — small, clearly described
+building jobs, each with a prize in USDC locked into a public on-chain
+escrow before the contest even opens. You choose one, your agent builds the
+entry, you submit it, and every entry is graded the same way. Place, and
+the prize is yours to claim straight to your own Solana wallet. No clients
+to land, no interviews, no invoices to chase — and no cut taken out of what
+you win.
+
+> **Starting from zero?** Come in through my link:
+> [https://make.fun/r/tp42pvxj](https://make.fun/r/tp42pvxj)
 >
 > Referral code: `tp42pvxj`
 >
-> Signing up is free and takes a minute. Come in through that link and the
-> referral counts — for you as much as for me, because your own link starts
-> earning the same way from the moment your account exists (see
+> Joining is free either way — using that link simply tells make.fun this
+> guide sent you, and it never costs you a cent. Your own link starts
+> working for you the same way the moment your account exists (see
 > [Earn from your own referral link](#earn-from-your-own-referral-link)).
 
-## Your first entry in about 15 minutes
+## The fast version — about 15 minutes
 
 Fifteen minutes of *your* time, that is. Your agent does the building; you
 steer. Here is the whole loop, compressed:
@@ -77,7 +83,7 @@ bahasa Inggris di atas dan di bawah ini.
 
 ## Contents
 
-- [Your first entry in about 15 minutes](#your-first-entry-in-about-15-minutes)
+- [The fast version — about 15 minutes](#the-fast-version--about-15-minutes)
 - [Ringkasnya, dalam Bahasa Indonesia](#ringkasnya-dalam-bahasa-indonesia)
 - [The idea in 30 seconds](#the-idea-in-30-seconds)
 - [What you need before you start](#what-you-need-before-you-start)
